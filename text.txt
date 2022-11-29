@@ -1,0 +1,49 @@
+
+Proqlamlaşdırma nədir? 
+
+-Kompüter proqramlaşdırması, adətən icra edilə bilən kompüter proqramının layihələndirilməsi və qurulması yolu ilə müəyyən bir hesablamanın yerinə yetirilməsi prosesidir. Proqramlaşdırma təhlil, alqoritmlər yaratmaq, alqoritmlərin dəqiqliyi və resurs istehlakı kimi vəzifələri əhatə edir. 
+
+ 
+
+Software nədir ve necə komputerdə emal olunur? 
+
+-Software kompüter proqramları və əlaqəli sənədlər və verilənlər toplusudur. Bu, sistemin qurulduğu və əslində işi yerinə yetirən  hardwaredən fərqlidir. 
+
+ 
+
+Dillərin qruplaşdırılması 
+
+-əməliiyat sistemlerine göre biz proqlamlaşdırmanı eas olaraq 3 ve ya 4 hisseye bölürük  
+
+    1)Desktop a)linux b)microsoft c)macsOS.  2)mobile a)android b)bada kimi nümüneler göstermek olar. 
+
+4 esas paradigmam var: 
+
+1.imperative paradigm 
+
+Əsas ideya proqram vəziyyətinə ölçülə bilən təsir göstərən commanddir. İfadə həm də əmrlərin ardıcıllığının vacib olduğunu əks etdirir. 'Əvvəlcə bunu et, sonra bunu et' sözü 'əvvəl bunu et, sonra bunu et'dən fərqli olardı. 
+
+ 
+
+2.functional paradigm 
+
+Funksional proqramlaşdırma bir çox cəhətdən imperativdən daha sadə və təmiz proqramlaşdırma paradiqmasıdır. Səbəb paradiqmanın sırf riyazi intizamdan qaynaqlanmasıdır: funksiyalar nəzəriyyəsi.Deməyə ehtiyac yoxdur ki, biz bu materialın qalan hissələrində(chapterlerinde) onların əksəriyyətinə qayıdacağıq. 
+
+ 
+
+3.logic paradigm (mentiqi paradigma) 
+
+Məntiq paradiqması digər üç əsas proqramlaşdırma paradiqmasından kəskin şəkildə fərqlənir. Məntiq paradiqması əsas faktlardan və münasibətlərdən biliklərin çıxarılması ilə məşğul olan problem sahələrində tətbiq edildikdə çox yaxşı uyğun gəlir. Məntiqi paradiqma hesablamanın daha ümumi sahələrində daha az təbii görünür. 
+
+ 
+
+4.object-orianted paradigm 
+
+Obyekt yönümlü paradiqma son onillikdə böyük populyarlıq qazanmışdır. Əsas və ən birbaşa səbəb, şübhəsiz ki, inkapsulyasiyanın güclü dəstəyi və proqram aspektlərinin məntiqi qruplaşdırılmasıdır. Proqramlar böyüdükdə və böyüdükdə bu xüsusiyyətlər çox vacibdir. 
+
+ 
+
+ 
+
+Günümüzdəki araşdırmalara esasən rahatalıqla demek olar ki son illərdə ən çox istafadə edilən dillər arasında1.JavaScript 2.C# 3.Java üstünlük verilir. 
+
